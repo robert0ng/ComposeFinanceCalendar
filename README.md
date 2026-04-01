@@ -19,7 +19,7 @@ repositories {
 Add the dependency:
 
 ```kotlin
-implementation("com.github.robertong:ComposeFinanceCalendar:1.0.0")
+implementation("com.github.robert0ng:ComposeFinanceCalendar:1.0.0")
 ```
 
 **Requirements:** Min SDK 24 | Kotlin 1.9+ | Compose BOM 2024.01.00+
